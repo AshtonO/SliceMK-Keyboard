@@ -9,7 +9,7 @@ https://www.slicemk.com/pages/ergodox-wireless-guide
 
 
 Configerator:
-https://config.slicemk.com/ergodox/
+https://config.slicemk.com/zmk/
 
 Bond reset (nvsclear):
 https://www.slicemk.com/pages/nvsclear
